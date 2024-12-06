@@ -1,5 +1,3 @@
-<img align="left" src="img/avatar@2x.png" width="250" />
-
 ### Hi there! <br />
 I'm Luke and I'm an engineer, currently focusing on iOS.
 I'm interested in tools, networking, user-friendly APIs and maintainable code.<br /><br />
